@@ -138,6 +138,13 @@ Make sure to cancel your Meetup subscription as it will not automatically cancel
 
 - You are also invited to contribute by adding links to presentations or recordings of talks from your own meetup. 
 
+### Finding a venue
+
+- If you cannot make use of WeWork space, you can try some of the solutions that other meetup organizers rely on. Try to contact the organizers of some of the meetups in the same area and ask if they would introduce you to their hosts. 
+
+- Try contacting other Umbraco users, agencies and companies using Umbraco in the same area, they might be able to host you or help find someone in the community who can.
+
+- Some meetups host their events in a social setting such as a bar, cafe or even bowling!
 
 
 ## Checklist: Before the meetup
@@ -147,7 +154,7 @@ Make sure to cancel your Meetup subscription as it will not automatically cancel
   - [X] Think of a format (presentation, Q&A, networking, workshop, hackathon) 
   - [X] Search for ideas from other groups or events
   - [X] Search for speakers
-- [X] Find a venue. If you cannot make use of WeWork space, you can try some of the solutions that other meetup organizers rely on. Try to contact the organizers of some of the meetups in the same area and ask if they would introduce you to their hosts. 
+- [X] Find a venue. 
 - [X] Create the event on meetup.com:
   - [X] Choose a clear and concise name
   - [X] Add a description 
