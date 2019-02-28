@@ -70,6 +70,9 @@ Any Umbracian that would like to start and run a meetup!  The Umbraco meetup org
 ## How likely is it that the meetup group will be successful? 
 
 The answer depends on various factors. But ONE thing will definitely make a difference and increase the chances for the group to be successful and sustainable: CONSISTENCY. Regularly holding meetups even when the attendance is not as high as you would want it to be, will increase the chances for the group to be successful. For example, setting up a dedicated day for the meetup helps keep you going and offers the group members the chance to plan for their attendance. 
+
+Not every meetup is monthly, it might be every other month or even just a few times a year. Listen to what works for your local community members.
+
 At the start, it can be a bit challenging to commit to a 6-month or a year plan, but in the long run, this process will pay off. 
 
 
@@ -112,11 +115,13 @@ Make sure to cancel your Meetup subscription as it will not automatically cancel
 ### How do I promote the new meetup group? 
 
 - Set up a twitter account for the new group to help promote it. Remember to hashtag #umbraco or #umbracomeetup, and make your own meetup group related hashtag.
+- Use LinkedIn to share the meetup invite with people in your professional network.
 - Use the channels #announcement, #meetups, and #meetup-organisers on the [Community Slack](http://umbracians.chat/) to get the word out there. 
 - Attend other related meetup groups and if possible, partner with the organizers of crossover meetups (.NET, CMS, Content strategy, etc.)
 - Write a blog post about the experience. Check out the section [Community resources](#community-resources) to see some examples. 
 - Umbraco HQ provides image templates that you can use to create digital banners to promote the meetup. 
-  - [To use the template](https://drive.google.com/open?id=13em4nVjEh46tMl7hFVoTHs1UgOEYydBw6qQXok8uni8), select and copy the slides, update the name of the meetup, city, date, speakers' name, and download in the format you will need for the promotion.   
+  - [To use the template](https://drive.google.com/open?id=13em4nVjEh46tMl7hFVoTHs1UgOEYydBw6qQXok8uni8), select and copy the slides, update the name of the meetup, city, date, speakers' name, and download in the format you will need for the promotion.
+ - Get in touch with [Skrift.io](https://skrift.io/contact-us/) team to include your meetup in their newsletter.
 
 ### Content and speakers
 
@@ -166,6 +171,7 @@ Make sure to cancel your Meetup subscription as it will not automatically cancel
   - [X] Add the name of the person hosting the event
   - [X] Announce the event to the members
 - [X] Promote the event on Twitter and other channels
+- [X] Get in touch with other local Umbracians to share the meetup
 - [X] Order food/snacks/beverages :) 
 - [X] Prepare name tags, signs, camera, power extensions, parking permits, etc.
 
@@ -189,7 +195,7 @@ Here is an example from an actual meetup - [DK Umbraco Meetup - Hackathon aka co
  
 ## Checklist: The day of the meetup
 
-
+- [X] Get intouch with your speaker(s) to check all ok for the meetup.
 - [X] Get to the venue early and greet people as they arrive.  
 - [X] Welcome everyone and make sure you and the co-organizers are easily identifiable as organizers.
 - [X] Introduce the attendees to each other. Make use of the name tags.  
