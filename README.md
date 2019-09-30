@@ -141,6 +141,8 @@ Make sure to cancel your Meetup subscription as it will not automatically cancel
 
 - Getting in contact with other meetup organizers for doing a talk or exchanging ideas can be very helpful as well. 
 
+- Go along to other local tech meetups. Even if not Umbraco, you may meet speakers who can share their experience with Umbraco community.
+
 - Get in touch with speakers who have given a talk at other meetups, maybe they could also present at yours, or via video call if located too far away from your city.
 
 - You are also invited to contribute by adding links to presentations or recordings of talks from your own meetup. 
@@ -152,6 +154,8 @@ Make sure to cancel your Meetup subscription as it will not automatically cancel
 - Try contacting other Umbraco users, agencies and companies using Umbraco in the same area, they might be able to host you or help find someone in the community who can.
 
 - Some meetups host their events in a social setting such as a bar, cafe or even bowling!
+
+- Universities/ Schools are often keen to host tech meetups. Get in touch with the computing department at your local university or college!
 
 
 ## Checklist: Before the meetup
@@ -233,6 +237,7 @@ It is not always easy to find speakers. Your meetup doesn't always need to follo
 - Basic Social / networking 
 - Latest Umbraco Community News
 - Open Agenda Style: attendees suggest topics to discuss as a group (on post its or whiteboard). If too many to discuss in one meetup, vote on the most popular.
+- Show & Tell: attendees can show off some of their Umbraco solutions, telling us how it was built and sharing any learnings from the project
 
 ## My meetup only gets a few people, what am I doing wrong?
 
