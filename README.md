@@ -35,22 +35,23 @@ If you would like to contribute to this guide, your ideas and suggestions are mo
 
 **Content**
 
+
 - [**Starting and Running an Umbraco Meetup Group**](Getting-Started/index.md)
-  * **Who can start an Umbraco meetup group?**
-  * **How likely is it that the meetup group will be successful?**
-  * **How do I set up a new Umbraco meetup group?**
-  * **Umbraco Meetup Pro Network**
-      - **What is Meetup Pro?**
-      - **What do I get from being part of the network?**
-      - **How do I get access to the Network?**
- * **How do I promote the new meetup group?**
- * [**Content and speakers**](/Organiser-Advice/index.md)
- * [**Checklist: Before the meetup**](/Organiser-Advice/checklist.md)
- * [**Checklist: The day of the meetup**](/Organiser-Advice/checklist.md)
- * [**Checklist: After the Meetup**](/Organiser-Advice/checklist.md)
- * [**I can't find speakers or my speaker canceled. What else can I do?**](/Organiser-Advice/FAQ.md)
- * [**My meetup only gets a few people, what am I doing wrong?**](/Organiser-Advice/FAQ.md)
- * [**I cannot keep up and I would like to step down**](/Organiser-Advice/FAQ.md)
+  * [**Who can start an Umbraco meetup group?**](Getting-Started/index.md#who-can-start-an-umbraco-meetup-group)
+  * [**How likely is it that the meetup group will be successful?**](Getting-Started/index.md#how-likely-is-it-that-the-meetup-group-will-be-successful)
+  * [**How do I set up a new Umbraco meetup group?**](Getting-Started/index.md#how-do-i-set-up-a-new-umbraco-meetup-group)
+  * [**Umbraco Meetup Pro Network**](Getting-Started/index.md#umbraco-meetup-pro-network)
+      - [**What is Meetup Pro?**](Getting-Started/index.md#what-is-meetup-pro)
+      - [**What do I get from being part of the network?**](Getting-Started/index.md#what-do-i-get-from-being-part-of-the-network)
+      - [**How do I get access to the Network?**](Getting-Started/index.md#how-do-i-get-access-to-the-network)
+ * [**How do I promote the new meetup group?**](/Promoting-meetups/index.md#how-do-i-promote-the-new-meetup-group)
+ * [**Content and speakers**](Organiser-Advice/index.md#content-and-speakers)
+ * [**Checklist: Before the meetup**](Organiser-Advice/checklist.md#checklist-before-the-meetup)
+ * [**Checklist: The day of the meetup**](Organiser-Advice/checklist.md#checklist-the-day-of-the-meetup)
+ * [**Checklist: After the Meetup**](Organiser-Advice/checklist.md#checklist-after-the-meetup) 
+ * [**I can't find speakers or my speaker canceled. What else can I do?**](/Organiser-Advice/FAQ.md#i-cant-find-speakers-or-my-speaker-canceled-what-else-can-i-do)
+ * [**My meetup only gets a few people, what am I doing wrong?**](/Organiser-Advice/FAQ.md#my-meetup-only-gets-a-few-people-what-am-i-doing-wrong)
+ * [**I cannot keep up and I would like to step down**](/Organiser-Advice/FAQ.md#i-cannot-keep-up-and-i-would-like-to-step-down)
  * [**Community resources**](/Community-Resources/index.md)
       - [**Connect with other Umbraco meetup organizers**](/Community-Resources/index.md#connect-with-other-umbraco-meetup-organizers)
       - [**Get inspiration from other formats**](/Community-Resources/index.md#get-inspiration-from-other-formats-of-umbraco-meetups-initiated-by-the-friendly-community)
