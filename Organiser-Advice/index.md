@@ -1,5 +1,5 @@
    
-#Content and speakers
+# Content and speakers
 
   - The content/topics depend on the format you choose for the meetup event as well as what the local community would like to see.
   
