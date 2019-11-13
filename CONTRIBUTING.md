@@ -4,6 +4,7 @@
 - Keep descriptions short and simple, but descriptive.
 
 # Some ideas to improve the guide: 
+- Add some [FAQs](..//Organiser-Advice/FAQ.md)
 - Links to slides/videos of talks that other meetup organizers can use 
 - Example of topics / trending topics / topics already covered in other meetups 
 - Example of agendas 
