@@ -4,9 +4,21 @@ Here are some tips from the [Umbraco London](https://www.meetup.com/The-London-U
 
 ## Format
 
-At the London in person 'formal' meetups we usually have two talks of around 40 minutes. We felt that was too passive for a virtual meetup and instead prefer having two shorter talks, or just one long one.
+We have three different types of meetup: formal (with talks), open-space (discussions), and social.
+
+### Formal meetups
+
+At the London in person formal meetups we usually have two talks of around 40 minutes. We felt that was too passive for a virtual meetup and instead prefer having two shorter talks, or just one long one.
 
 It's important to leave time for some good questions and conversations between talks – it's a shame to have to cut things short if you have too much planned – and this helps keep attendees engaged.
+
+### Open-space meetups
+
+We are planning our first virtual open-space meetup in July, and shall report back afterwards on how it went!
+
+### Social meetups
+
+Our in person social meetups don't need planning, beyond a venue, to be a success. Virtual ones however can really benefit from having an agenda (itinerary) to give the meetup some structure and boundaries. Perhaps promote the event as as safe space for asking any tech question, or plan a group activity.
 
 ### News
 
@@ -44,10 +56,6 @@ When creating a meeting on Zoom make sure:
 It is important not to share your Zoom URL in the public domain! Be careful to share the link with only those you trust, and not on public social media or in the description of your meetup.
 
 Meetup.com provides a safe way to share the link with your attendees; selecting the "Make this an online event" checkbox will reveal a "online meetup URL" textbox which is only displayed to registered attendees.
-
-### Having an itinerary
-
-We have a number of different types of meetup, so having an agenda (itinerary) is useful for both us, as organisers, and participants. It gives the meetup some structure and boundaries. In person social meetups don't need an agenda to be a success, whereas virtual social meetups can really benefit from some planned conversations or group activity.
 
 ## On the day
 
@@ -101,4 +109,6 @@ If you want to stay on the call and have some informal chat then make it known t
 
 ## Any other tips?
 
-If you have any other suggestions for things that have worked well on a virtual meetup we'd love to hear them: [@umbLondon](https://twitter.com/umblondon) on Twitter (DMs are open), email [hello@umblondon.co.uk](hello@umblondon.co.uk), or let [Callum](https://twitter.com/callumbwhyte), [Lotte](https://twitter.com/lottepitcher) or [Ravi](https://twitter.com/ravimotha) know (all on the community Slack). We're keen to get back to in person meetups when we're allowed to, but we will certainly consider adding some online meetups to our schedules...
+If you have any other suggestions for things that have worked well on a virtual meetup we'd love to hear them: [@umbLondon](https://twitter.com/umblondon) on Twitter (DMs are open), email [hello@umblondon.co.uk](hello@umblondon.co.uk), or let [Callum](https://twitter.com/callumbwhyte), [Lotte](https://twitter.com/lottepitcher) or [Ravi](https://twitter.com/ravimotha) know (all on the community Slack). 
+
+We're keen to get back to in person meetups when we're allowed to, but we will certainly consider adding some online meetups to our schedules...
