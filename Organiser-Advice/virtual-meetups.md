@@ -24,6 +24,31 @@ Zoom is the defacto choice for running a virtual meetup. The free accounts have 
 
 Umbraco HQ have an 'pro' account that can be used for running meetups. Reach out to Ilham Boulghallat on the community Slack around 1 week in advance of your meetup if you would like to use HQ's Zoom.
 
+## Preparations
+
+Virtual events don't have to be limited to your regular local attendees - Umbracians from all over the world can join!
+
+Plan a date with at least a couple of weeks notice and begin promoting as soon as you can. Share your meetup on Twitter, LinkedIn, the community Slack, and other channels for the widest reach.
+
+Check the meetup.com [events calendar](https://www.meetup.com/pro/umbraco) to ensure there's nothing conflicting with your chosen date and time.
+
+### Scheduling
+
+When creating a meeting on Zoom make sure:
+
+- The meeting has a password
+- The waiting room is enabled
+- Participants are "muted on entering"
+- The correct date and time have been set
+
+It is important not to share your Zoom URL in the public domain! Be careful to share the link with only those you trust, and not on public social media or in the description of your meetup.
+
+Meetup.com provides a safe way to share the link with your attendees; selecting the "Make this an online event" checkbox will reveal a "online meetup URL" textbox which is only displayed to registered attendees.
+
+## On the day
+
+It is a good idea to email people on the day of the meetup with the joining information, plus a reminder that they must not share the link with anyone else or post it online.
+
 ## In advance
 
 - When you schedule the meeting on Zoom you must use a password.
