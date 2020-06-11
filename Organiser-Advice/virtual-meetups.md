@@ -36,10 +36,10 @@ Check the meetup.com [events calendar](https://www.meetup.com/pro/umbraco) to en
 
 When creating a meeting on Zoom make sure:
 
-- The meeting has a password
-- The waiting room is enabled
-- Participants are "muted on entering"
 - The correct date and time have been set
+- The meeting has a password
+- The waiting room is enabled _(advanced settings)_
+- Participants are "muted on entering" _(advanced settings)_
 
 It is important not to share your Zoom URL in the public domain! Be careful to share the link with only those you trust, and not on public social media or in the description of your meetup.
 
@@ -49,13 +49,7 @@ Meetup.com provides a safe way to share the link with your attendees; selecting 
 
 It is a good idea to email people on the day of the meetup with the joining information, plus a reminder that they must not share the link with anyone else or post it online.
 
-## In advance
-
-- When you schedule the meeting on Zoom you must use a password.
-- Add the Zoom url to meetup.com but NOT in the main description as that would put it in the public domain! There is a specific textbox for the virtual meetup url that is only displayed to registered attendees.
-- It is a good idea to also email people on the day of the meetup with the joining information, plus a reminder that they must not share the link with anyone else or post it online.
-
-## Preparing the Zoom call
+### Preparing the Zoom call
 
 - Start the call early with the waiting room enabled so you can make sure that you and the other organisers are ready before letting everyone else in.
 - Make sure that all organisers are set as 'co-hosts'. If you organise meetups on your own, ask a couple of trusted community members to co-host with you as it is so much easier to have a few of you monitoring what's going on.
