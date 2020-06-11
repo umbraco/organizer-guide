@@ -20,7 +20,9 @@ Remember, your audience may not actually know that much about Umbraco so you mig
 
 ## Tools
 
-Zoom is the defacto choice for running a virtual meetup. The free accounts have a limit of 40 minutes. Umbraco HQ have an 'pro' account that can be used for running meetups without that time limitation. Find Ilham Boulghallat on the community Slack if you would like to use HQ's Zoom.
+Zoom is the defacto choice for running a virtual meetup. The free accounts have a limit of 40 minutes, whereas 'pro' accounts can host up to 100 attendees without time limitations.
+
+Umbraco HQ have an 'pro' account that can be used for running meetups. Reach out to Ilham Boulghallat on the community Slack around 1 week in advance of your meetup if you would like to use HQ's Zoom.
 
 ## In advance
 
