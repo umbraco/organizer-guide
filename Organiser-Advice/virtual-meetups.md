@@ -4,11 +4,9 @@ Here are some tips from the [Umbraco London](https://www.meetup.com/The-London-U
 
 ## Format
 
-At the London in person 'formal' meetups we usually have two talks of around 40 minutes. We felt that was too passive for a virtual meetup and we prefer having two shorter talks, or just one long one.
+At the London in person 'formal' meetups we usually have two talks of around 40 minutes. We felt that was too passive for a virtual meetup and instead prefer having two shorter talks, or just one long one.
 
 It's important to leave time for some good questions and conversations between talks – it's a shame to have to cut things short if you have too much planned – and this helps keep attendees engaged.
-
-Remember to tailor your content to your audience
 
 ### News
 
@@ -47,6 +45,10 @@ It is important not to share your Zoom URL in the public domain! Be careful to s
 
 Meetup.com provides a safe way to share the link with your attendees; selecting the "Make this an online event" checkbox will reveal a "online meetup URL" textbox which is only displayed to registered attendees.
 
+### Having an itinerary
+
+We have a number of different types of meetup, so having an agenda (itinerary) is useful for both us, as organisers, and participants. It gives the meetup some structure and boundaries. In person social meetups don't need an agenda to be a success, whereas virtual social meetups can really benefit from some planned conversations or group activity.
+
 ## On the day
 
 It is a good idea to email people on the day of the meetup with the joining information, plus a reminder that they must not share the link with anyone else or post it online.
@@ -75,10 +77,6 @@ We find it works best when one of the organisers invites each person to speak. W
 
 If you have lots of people on the call then this won't really viable, and instead you could select just a few people to talk to. Perhaps ask people to raise their hand if they're new, or from abroad, and then ask them to say hello. Of course it is completely up to you how you handle all this, but we've had some feedback that people really appreciated being invited to say something, as otherwise they would have left at the end without ever un-muting themselves.
 
-## Having an itinerary
-
-We have a number of different types of meetup, so having an agenda (itinerary) is useful for both us, as organisers, and participants. It gives the meetup some structure and boundaries. If you are just having an informal chat, it can be just as useful tomake it clear to those attending that this is the framework.
-
 ## Helping speakers
 
 Before you're about to hand over to your speaker, make them a co-host of the meeting so that they can share their screen. Ask your attendees to keep their videos on if they don't mind, as it helps the speakers to see engaged faces as they talk.
@@ -103,4 +101,4 @@ If you want to stay on the call and have some informal chat then make it known t
 
 ## Any other tips?
 
-If you have any other suggestions for things that have worked well on a virtual meetup we'd love to hear them [@umbLondon](https://twitter.com/umblondon) on Twitter, or let [Callum](https://twitter.com/callumbwhyte), [Lotte](https://twitter.com/lottepitcher) or [Ravi](https://twitter.com/ravimotha) know (all on the community Slack). We also have an email [hello@umblondon.co.uk](hello@umblondon.co.uk) We're keen to get back to in person meetups when we're allowed to, but we continwill certainly consider adding w some online meetups to our schedules...
+If you have any other suggestions for things that have worked well on a virtual meetup we'd love to hear them: [@umbLondon](https://twitter.com/umblondon) on Twitter (DMs are open), email [hello@umblondon.co.uk](hello@umblondon.co.uk), or let [Callum](https://twitter.com/callumbwhyte), [Lotte](https://twitter.com/lottepitcher) or [Ravi](https://twitter.com/ravimotha) know (all on the community Slack). We're keen to get back to in person meetups when we're allowed to, but we will certainly consider adding some online meetups to our schedules...
