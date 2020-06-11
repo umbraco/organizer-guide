@@ -1,6 +1,6 @@
 # Running virtual meetups
 
-Here are some tips from the London organisers on running virtual meetups.
+Here are some tips from the [Umbraco London](https://www.meetup.com/The-London-Umbraco-Meetup/) organisers on running virtual meetups.
 
 ## Format
 
@@ -59,27 +59,41 @@ It is a good idea to email people on the day of the meetup with the joining info
 
 ## Starting the meetup
 
-When people join the call it can be disconcerting if nothing is happening and everyone is quiet. One option is to have started a screen-share before you let people in, with a slide welcoming people to the meetup and informing them that you'll be starting in a few minutes. Or, what we prefer to do, is to instigate some informal chat with people as they join us. It can help to set a friendly, welcoming tone to the event. If you have lots of participants it might be easier to keep everyone else on mute and just you the organisers have a chat as people arrive.
+When people join the call it can be disconcerting if nothing is happening and everyone is quiet. One option is to have started a screen-share before you let people in, with a slide welcoming people to the meetup and informing them that you'll be starting in a few minutes.
 
-As part of our introduction we like to get everyone to say a quick hello, tell us their name and where they are. We've had people join from the US, South Africa and other parts of the UK so it is interesting to hear where they are joining from. Perhaps also ask people to say if it's their first time at your meetup, so you can all give a quick cheer to welcome them. You do need to make it clear that it is a quick hello and not much more. If people start doing full introductions then it can go on far too long! You can't tell people to say hello in order, as the sequence on screen and in the participants list is different for everyone. We find it works best when one of the organisers invites each person to speak. Without such direction you will either have silence, or people talking over each other. It's easy to miss someone out, so do remember to ask at the end if you've done that!
+We prefer to instigate some informal chat with people as they join us. It can help to set a friendly, welcoming tone to the event. If you have lots of participants it might be easier to keep everyone else on mute and just you the organisers have a chat as people arrive.
+
+### A friendly introduction
+
+As part of our introduction we like to get everyone to say a quick hello, tell us their name and where they are. We've had people join from the US, South Africa and other parts of the UK so it is interesting to hear where they are joining from. Perhaps also ask people to say if it's their first time at your meetup, so you can all give a quick cheer to welcome them.
+
+You do need to make it clear that it is a quick hello and not much more. If people start doing full introductions then it can go on far too long! You can't tell people to say hello in order, as the sequence on screen and in the participants list is different for everyone.
+
+We find it works best when one of the organisers invites each person to speak. Without such direction you will either have silence, or people talking over each other. It's easy to miss someone out, so do remember to ask at the end if you've done that!
 
 If you have lots of people on the call then this won't really viable, and instead you could select just a few people to talk to. Perhaps ask people to raise their hand if they're new, or from abroad, and then ask them to say hello. Of course it is completely up to you how you handle all this, but we've had some feedback that people really appreciated being invited to say something, as otherwise they would have left at the end without ever un-muting themselves.
 
 ## Helping speakers
 
-Before you're about to hand over to your speaker, make them a co-host of the meeting so that they can share their screen. Ask your attendees to keep their videos on if they don't mind, as it helps the speakers to see engaged faces as they talk. Usually you'll want to mute everyone before the speaker starts, it's always a good idea to tell people you're doing that so they know you've done it. Some speakers prefer having people un-muted, so it's best to check with them.
+Before you're about to hand over to your speaker, make them a co-host of the meeting so that they can share their screen. Ask your attendees to keep their videos on if they don't mind, as it helps the speakers to see engaged faces as they talk.
+
+Usually you'll want to mute everyone before the speaker starts, it's always a good idea to tell people you're doing that so they know you've done it. Some speakers prefer having people un-muted, so it's best to check with them.
 
 If people have questions then it's usually easiest to ask them to post it in the Zoom chat. As the organiser you should be in charge of reading out the questions at the end, don't make the speaker scroll through the chat themselves!
 
 ## Recording
 
-We haven't been recording the London meetups as we know this puts some people off from attending. We also want to encourage as many people to turn up as possible.  
+We haven't been recording the London meetups as we know this puts some people off from attending. We also want to encourage as many people to turn up as possible.
 
-If you do decide to record then you should warn your attendees before you start the recording so people can switch off their video if they want. Umbraco HQ have a community channel on YouTube that meetup videos can be published to. Find Arnold Visser on the community Slack for help with that.
+There are perhaps times where you wish to record a specific talk or segment of your meetup. Be sure to warn your attendees before you start the recording so people can switch off their video if they wish.
+
+There is an [Umbraco Community YouTube channel](https://www.youtube.com/channel/UCIMCVKFTnLBJPkbkIez4IzQ) that meetup videos can be published to. Find Arnold Visser on the community Slack for help with that.
 
 ## Finishing the meetup
 
-It's a good idea to have a formal end to the meetup, no doubt to say some thank yous and to remind people when the next meetup is. If you want to stay on the call and have some informal chat then make it known that people can stay on for that, but that they're welcome to leave. This stops people feeling rude if they do want to go!
+It's a good idea to have a formal end to the meetup, no doubt to say some thank yous and to remind people when the next meetup is.
+
+If you want to stay on the call and have some informal chat then make it known that people can stay on for that, but that they're welcome to leave. This stops people feeling rude if they do want to go!
 
 ## Any other tips?
 
