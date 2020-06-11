@@ -109,6 +109,6 @@ If you want to stay on the call and have some informal chat then make it known t
 
 ## Any other tips?
 
-If you have any other suggestions for things that have worked well on a virtual meetup we'd love to hear them: [@umbLondon](https://twitter.com/umblondon) on Twitter (DMs are open), email [hello@umblondon.co.uk](hello@umblondon.co.uk), or let [Callum](https://twitter.com/callumbwhyte), [Lotte](https://twitter.com/lottepitcher) or [Ravi](https://twitter.com/ravimotha) know (all on the community Slack). 
+If you have any other suggestions for things that have worked well on a virtual meetup we'd love to hear them: [@umbLondon](https://twitter.com/umblondon) on Twitter (DMs are open), email <hello@umblondon.co.uk>, or let [Callum](https://twitter.com/callumbwhyte), [Lotte](https://twitter.com/lottepitcher) or [Ravi](https://twitter.com/ravimotha) know (all on the community Slack). 
 
 We're keen to get back to in person meetups when we're allowed to, but we will certainly consider adding some online meetups to our schedules...
