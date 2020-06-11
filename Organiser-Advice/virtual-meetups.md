@@ -4,10 +4,19 @@ Here are some tips from the London organisers on running virtual meetups.
 
 ## Format
 
-At the London in person 'formal' meetups we usually have two talks of around 40 minutes.  We feel that's too passive for a virtual meetup and like to have two shorter talks, or just one long one.
-Hopefully the talk(s) will spark some good questions and conversations, it's a shame to have to cut that short if you have too much planned.
+At the London in person 'formal' meetups we usually have two talks of around 40 minutes. We feel that's too passive for a virtual meetup and like to have two shorter talks, or just one long one.
 
-We always start with any Umbraco news that has happened since the last meetup. Rather than a long list of bullet points covering everything, how about focusing on three things that you find most interesting and go into detail on those. Remember that your audience may not actually know that much about Umbraco so you might need to take some time to explain things in a way that will keep everyone engaged.  Saying "Niels Hartvig, the founder of Umbraco" is a much friendly approach than just referring to him as "Niels". This is appropriate for in person meetups too of course, it's something we need to keep reminding ourselves!
+It's important to leave time for some good questions and conversations between talks – it's a shame to have to cut things short if you have too much planned – and this helps keep attendees engaged.
+
+### News
+
+We always start with any Umbraco news that has happened since the last meetup.
+
+Rather than a long list of bullet points covering everything, how about focusing on three things that you find most interesting and go into detail on those.
+
+If you're in need of some inspiration for topics, the monthly [Skrift Newsletter](https://bit.ly/skrift59-5) and the weekly [UmbraCoffee](https://www.youtube.com/umbracoffee) series are good sources.
+
+Remember, your audience may not actually know that much about Umbraco so you might need to take some time to explain things in a way that will keep everyone engaged. Saying "Niels Hartvig, the founder of Umbraco" is a much a friendlier approach than just referring to him as "Niels". This is appropriate for in person meetups too of course, it's something we need to keep reminding ourselves!
 
 ## Tools
 
