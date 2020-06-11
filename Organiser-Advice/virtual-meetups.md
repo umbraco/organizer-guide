@@ -69,7 +69,7 @@ It is a good idea to email people on the day of the meetup with the joining info
 - It is useful for people, especially first-timers, to know who the meetup organisers are on the call. An easy way to achieve this is to add ' - organiser' to your Zoom name. Co-hosts can change their own name even if you've disabled this for participants.  
 - Ideally all the organisers should be visible and aware of what's happening during the call, but if that's not possible, make sure at least one of you is at all times.
 
-## Starting the meetup
+### Starting the meetup
 
 When people join the call it can be disconcerting if nothing is happening and everyone is quiet. One option is to have started a screen-share before you let people in, with a slide welcoming people to the meetup and informing them that you'll be starting in a few minutes.
 
@@ -85,7 +85,7 @@ We find it works best when one of the organisers invites each person to speak. W
 
 If you have lots of people on the call then this won't really viable, and instead you could select just a few people to talk to. Perhaps ask people to raise their hand if they're new, or from abroad, and then ask them to say hello. Of course it is completely up to you how you handle all this, but we've had some feedback that people really appreciated being invited to say something, as otherwise they would have left at the end without ever un-muting themselves.
 
-## Helping speakers
+### Helping speakers
 
 Before you're about to hand over to your speaker, make them a co-host of the meeting so that they can share their screen. Ask your attendees to keep their videos on if they don't mind, as it helps the speakers to see engaged faces as they talk.
 
@@ -93,7 +93,7 @@ Usually you'll want to mute everyone before the speaker starts, it's always a go
 
 If people have questions then it's usually easiest to ask them to post it in the Zoom chat. As the organiser you should be in charge of reading out the questions at the end, don't make the speaker scroll through the chat themselves!
 
-## Recording
+### Recording
 
 We haven't been recording the London meetups as we know this puts some people off from attending. We also want to encourage as many people to turn up as possible.
 
@@ -101,7 +101,7 @@ There are perhaps times where you wish to record a specific talk or segment of y
 
 There is an [Umbraco Community YouTube channel](https://www.youtube.com/channel/UCIMCVKFTnLBJPkbkIez4IzQ) that meetup videos can be published to. Find Arnold Visser on the community Slack for help with that.
 
-## Finishing the meetup
+### Finishing the meetup
 
 It's a good idea to have a formal end to the meetup, no doubt to say some thank yous and to remind people when the next meetup is.
 
