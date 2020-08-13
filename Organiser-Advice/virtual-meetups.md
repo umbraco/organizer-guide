@@ -91,6 +91,8 @@ Before you're about to hand over to your speaker, make them a co-host of the mee
 
 Usually you'll want to mute everyone before the speaker starts, it's always a good idea to tell people you're doing that so they know you've done it. Some speakers prefer having people un-muted, so it's best to check with them.
 
+At the point you hand over to the speakers for a screen share, spot light them.  This helps attendees focus on the speaker, and helps anyone who lips read find the speaker easily to see what the speaker is saying.  It also has the benefit of attendees easily seeing the speaker demo via the camera, for example when demoing with physical devices such as Alexa.
+
 If people have questions then it's usually easiest to ask them to post it in the Zoom chat. As the organiser you should be in charge of reading out the questions at the end, don't make the speaker scroll through the chat themselves!
 
 ### Recording
