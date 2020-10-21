@@ -103,6 +103,16 @@ There are perhaps times where you wish to record a specific talk or segment of y
 
 There is an [Umbraco Community YouTube channel](https://www.youtube.com/channel/UCIMCVKFTnLBJPkbkIez4IzQ) that meetup videos can be published to. Find Arnold Visser on the community Slack for help with that.
 
+### Questions
+
+Before you start the session ask the speaker if they are happy to take questions during their talk or at the end.
+
+Remind attendees that they can post questions to the Zoom chat if they want.  Ensure one of the meetup organisers is monitoring the vhat to ensure that all questions do get asked.
+
+Some attendees may feel self conscious at asking a question on the meetup, so offer them the ability to ping one of the organisers to ask questions on their behalf.
+
+Do make sure the questions and discussions stay on topic and consider nominating a meeting chair to ensure that people get an equal voice in the post talk chat.
+
 ### Finishing the meetup
 
 It's a good idea to have a formal end to the meetup, no doubt to say some thank yous and to remind people when the next meetup is.
