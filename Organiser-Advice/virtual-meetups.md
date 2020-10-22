@@ -107,9 +107,9 @@ There is an [Umbraco Community YouTube channel](https://www.youtube.com/channel/
 
 Before you start the session ask the speaker if they are happy to take questions during their talk or at the end.
 
-Remind attendees that they can post questions to the Zoom chat if they want.  Ensure one of the meetup organisers is monitoring the vhat to ensure that all questions do get asked.
+Remind the attendees that they can post questions to the Zoom chat if they want.  Ensure one of the meetup organisers is monitoring the chat to ensure that all questions do get asked.
 
-Some attendees may feel self conscious at asking a question on the meetup, so offer them the ability to ping one of the organisers to ask questions on their behalf.
+Some attendees may feel self-conscious at asking a question on the meetup, so offer them the ability to ping one of the organisers to ask questions on their behalf.
 
 Do make sure the questions and discussions stay on topic and consider nominating a meeting chair to ensure that people get an equal voice in the post talk chat.
 
